@@ -1,0 +1,8 @@
+A directory for the project
+mkdir simple-ecommerce
+cd simple-ecommerce
+npm init -y
+npm install express
+
+To start the backend server
+node index.js
